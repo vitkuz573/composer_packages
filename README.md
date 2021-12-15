@@ -1,4 +1,4 @@
-# composer_packages
+# My composer packages
 
 This repository contains all my composer packages
 
